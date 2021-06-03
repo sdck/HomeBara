@@ -20,11 +20,14 @@ dependencies:
   flutter:
     sdk: flutter
 
-  filter_list: ^0.0.5
-  search_map_place: ^0.3.0
-  google_maps_flutter: ^0.5.13
+  filter_list: ^0.0.9
+  search_map_place: 
+  google_maps_flutter: 
   flutter_google_places: ^0.2.6
   location: ^3.2.4
+  location_web: ^1.0.1
+  http_parser: ^3.1.3
+  address_search_field: 
   
   firebase_auth: 
   firebase_analytics: 
