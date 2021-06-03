@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">850558545448-ps2sq4813k179i8goq9jou0qks0jl3dq.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://homebara-01012020.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">850558545448</string>
+    <string name="google_api_key" translatable="false">AIzaSyC_DNFGvpJD063l1QaNl_F78R1iSXCXkBg</string>
+    <string name="google_app_id" translatable="false">1:850558545448:android:e6e6deb1765813b65a0f1d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC_DNFGvpJD063l1QaNl_F78R1iSXCXkBg</string>
+    <string name="google_storage_bucket" translatable="false">homebara-01012020.appspot.com</string>
+    <string name="project_id" translatable="false">homebara-01012020</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850558545448",
+    "firebase_url": "https://homebara-01012020.firebaseio.com",
+    "project_id": "homebara-01012020",
+    "storage_bucket": "homebara-01012020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850558545448:android:e6e6deb1765813b65a0f1d",
+        "android_client_info": {
+          "package_name": "com.example.barahome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850558545448-ps2sq4813k179i8goq9jou0qks0jl3dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_DNFGvpJD063l1QaNl_F78R1iSXCXkBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850558545448-ps2sq4813k179i8goq9jou0qks0jl3dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
