@@ -1,4 +1,3 @@
-import 'package:barahome/Bloc/bloc.navigation/navigation_state.dart';
 import 'package:barahome/Views/auth/authService.dart';
 import 'package:barahome/Views/auth/login_view.dart';
 import 'package:barahome/Views/auth/sign_up_form1_view.dart';
@@ -6,11 +5,9 @@ import 'package:barahome/Views/auth/sign_up_form_2_view.dart';
 import 'package:barahome/Views/home_view.dart';
 import 'package:barahome/Views/landing_page_view.dart';
 import 'package:barahome/Views/side_bar_layout.dart';
-import 'package:barahome/Views/side_drawer.dart';
 import 'package:barahome/Views/splashscreen_view.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:barahome/Views/sideBarPages/gouassou_view.dart';
 import 'package:provider/provider.dart';
 
 void main() => runApp(MyApp());

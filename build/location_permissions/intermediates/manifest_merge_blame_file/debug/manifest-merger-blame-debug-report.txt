@@ -3,6 +3,6 @@
 3    package="com.baseflow.location_permissions" >
 4
 5    <uses-sdk android:minSdkVersion="16" />
-5-->C:\Users\sidic\OneDrive\Bureau\skrt devellopement\flutter\.pub-cache\hosted\pub.dartlang.org\location_permissions-3.0.0+1\android\src\main\AndroidManifest.xml
+5-->D:\_bin\flutter\.pub-cache\hosted\pub.dartlang.org\location_permissions-3.0.0+1\android\src\main\AndroidManifest.xml
 6
 7</manifest>

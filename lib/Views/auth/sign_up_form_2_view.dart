@@ -1,6 +1,4 @@
-import 'package:barahome/Views/auth/payment_option_view.dart';
 import 'package:flutter/material.dart';
-import 'package:firebase_auth/firebase_auth.dart';
 
 class SignUpPage2View extends StatefulWidget {
   @override

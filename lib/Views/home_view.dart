@@ -27,7 +27,7 @@ class _HomeViewState extends State<HomeView> {
 
     // Method for retrieving the current location
     _getCurrentLocation() async {
-      await Geolocator
+      await geolocator
           .getCurrentPosition(desiredAccuracy: LocationAccuracy.high)
           .then((Position position) async {
         setState(() {

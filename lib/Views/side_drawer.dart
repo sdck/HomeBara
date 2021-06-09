@@ -1,4 +1,3 @@
-import 'package:barahome/Themes/themes.dart';
 import 'package:barahome/Views/sideBarPages/activity_view.dart';
 import 'package:barahome/Views/sideBarPages/gouassou_view.dart';
 import 'package:barahome/Views/sideBarPages/profile_view.dart';

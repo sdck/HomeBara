@@ -16,6 +16,7 @@ class SideBarLayout extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final double height = MediaQuery.of(context).size.height;
+    // ignore: unused_local_variable
     final double width = MediaQuery.of(context).size.width;
 
     return Scaffold(
@@ -56,6 +57,7 @@ class SideBarLayout extends StatelessWidget {
                   return HomeView();
                 }
 
+                // ignore: dead_code
                 Positioned(
                   left: 15.0,
                   top: height * 0.1,
