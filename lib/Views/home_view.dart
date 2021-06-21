@@ -21,14 +21,15 @@ class _HomeViewState extends State<HomeView> {
     // For controlling the view of the Map
     GoogleMapController mapController;
     //initialize geolocator
+    // ignore: unused_local_variable
     final Geolocator geolocator = Geolocator();
     //Store current position
     Position currentPosition;
 
     // Method for retrieving the current location
     _getCurrentLocation() async {
-      await geolocator
-          .getCurrentPosition(desiredAccuracy: LocationAccuracy.high)
+      await Geolocator.getCurrentPosition(
+              desiredAccuracy: LocationAccuracy.high)
           .then((Position position) async {
         setState(() {
           // Store the position in the variable

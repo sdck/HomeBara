@@ -170,17 +170,17 @@
 105                android:value="com.google.firebase.components.ComponentRegistrar" />
 105-->[com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
 106            <meta-data
-106-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:32:13-34:85
-107                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
-107-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:33:17-109
+106-->[com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:23:13-25:85
+107                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
+107-->[com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:24:17-109
 108                android:value="com.google.firebase.components.ComponentRegistrar" />
-108-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:34:17-82
+108-->[com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:25:17-82
 109            <meta-data
-109-->[com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:23:13-25:85
-110                android:name="com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar"
-110-->[com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:24:17-109
+109-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:32:13-34:85
+110                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+110-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:33:17-109
 111                android:value="com.google.firebase.components.ComponentRegistrar" />
-111-->[com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:25:17-82
+111-->[com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:34:17-82
 112            <meta-data
 112-->[com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\82a4fec2f9c8b119e3f35b6a79557b7d\firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
 113                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
@@ -343,103 +343,104 @@
 196            </intent-filter>
 197        </service>
 198
-199        <activity
-199-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
-200            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-200-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:24:13-79
-201            android:exported="false"
-201-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:25:13-37
-202            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-202-->[com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:26:13-72
-203
-204        <provider
-204-->[com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:14:9-18:39
-205            android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
-205-->[com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:15:13-82
-206            android:authorities="com.example.barahome.firebaseperfprovider"
-206-->[com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:16:13-72
+199        <provider
+199-->[com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:14:9-18:39
+200            android:name="com.google.firebase.perf.provider.FirebasePerfProvider"
+200-->[com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:15:13-82
+201            android:authorities="com.example.barahome.firebaseperfprovider"
+201-->[com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:16:13-72
+202            android:exported="false"
+202-->[com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:17:13-37
+203            android:initOrder="101" />
+203-->[com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:18:13-36
+204
+205        <activity
+205-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+206            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+206-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
 207            android:exported="false"
-207-->[com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:17:13-37
-208            android:initOrder="101" />
-208-->[com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:18:13-36
-209        <provider
-209-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
-210            android:name="com.google.firebase.provider.FirebaseInitProvider"
-210-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
-211            android:authorities="com.example.barahome.firebaseinitprovider"
-211-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
-212            android:directBootAware="true"
-212-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
-213            android:exported="false"
-213-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
-214            android:initOrder="100" />
-214-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
-215
-216        <receiver
-216-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
-217            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-217-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
-218            android:enabled="true"
-218-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
-219            android:exported="false" >
-219-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
-220        </receiver>
-221
-222        <service
-222-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
-223            android:name="com.google.android.gms.measurement.AppMeasurementService"
-223-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
-224            android:enabled="true"
-224-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
-225            android:exported="false" />
-225-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
-226        <service
-226-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
-227            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-227-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
-228            android:enabled="true"
-228-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
-229            android:exported="false"
-229-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
-230            android:permission="android.permission.BIND_JOB_SERVICE" />
-230-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
-231
-232        <meta-data
-232-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cc2cd3938dc5f508c722e9a30029aa8c\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
-233            android:name="com.google.android.gms.version"
-233-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cc2cd3938dc5f508c722e9a30029aa8c\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
-234            android:value="@integer/google_play_services_version" />
-234-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cc2cd3938dc5f508c722e9a30029aa8c\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
-235
-236        <service
-236-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
-237            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
-237-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
-238            android:exported="false" >
-238-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
-239            <meta-data
-239-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
-240                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
-240-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
-241                android:value="cct" />
-241-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
-242        </service>
-243        <service
-243-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
-244            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-244-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
-245            android:exported="false"
-245-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
-246            android:permission="android.permission.BIND_JOB_SERVICE" >
-246-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
-247        </service>
-248
-249        <receiver
-249-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
-250            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-250-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
-251            android:exported="false" />
-251-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
-252    </application>
-253
-254</manifest>
+207-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+208            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+208-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+209
+210        <provider
+210-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+211            android:name="com.google.firebase.provider.FirebaseInitProvider"
+211-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+212            android:authorities="com.example.barahome.firebaseinitprovider"
+212-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+213            android:directBootAware="true"
+213-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+214            android:exported="false"
+214-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+215            android:initOrder="100" />
+215-->[com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+216
+217        <receiver
+217-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:29:9-33:20
+218            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+218-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:30:13-85
+219            android:enabled="true"
+219-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:31:13-35
+220            android:exported="false" >
+220-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:32:13-37
+221        </receiver>
+222
+223        <service
+223-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:35:9-38:40
+224            android:name="com.google.android.gms.measurement.AppMeasurementService"
+224-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:36:13-84
+225            android:enabled="true"
+225-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:37:13-35
+226            android:exported="false" />
+226-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:38:13-37
+227        <service
+227-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:39:9-43:72
+228            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+228-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:40:13-87
+229            android:enabled="true"
+229-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:41:13-35
+230            android:exported="false"
+230-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:42:13-37
+231            android:permission="android.permission.BIND_JOB_SERVICE" />
+231-->[com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:43:13-69
+232
+233        <meta-data
+233-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cc2cd3938dc5f508c722e9a30029aa8c\jetified-play-services-basement-17.3.0\AndroidManifest.xml:23:9-25:69
+234            android:name="com.google.android.gms.version"
+234-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cc2cd3938dc5f508c722e9a30029aa8c\jetified-play-services-basement-17.3.0\AndroidManifest.xml:24:13-58
+235            android:value="@integer/google_play_services_version" />
+235-->[com.google.android.gms:play-services-basement:17.3.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cc2cd3938dc5f508c722e9a30029aa8c\jetified-play-services-basement-17.3.0\AndroidManifest.xml:25:13-66
+236
+237        <service
+237-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:29:9-35:19
+238            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+238-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:30:13-103
+239            android:exported="false" >
+239-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:31:13-37
+240            <meta-data
+240-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:32:13-34:39
+241                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+241-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:33:17-94
+242                android:value="cct" />
+242-->[com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\8f8d8e9b8ffed8e717e03072d6b10dd2\jetified-transport-backend-cct-3.0.0\AndroidManifest.xml:34:17-36
+243        </service>
+244        <service
+244-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:26:9-30:19
+245            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+245-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:27:13-117
+246            android:exported="false"
+246-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:28:13-37
+247            android:permission="android.permission.BIND_JOB_SERVICE" >
+247-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:29:13-69
+248        </service>
+249
+250        <receiver
+250-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:32:9-34:40
+251            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+251-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:33:13-132
+252            android:exported="false" />
+252-->[com.google.android.datatransport:transport-runtime:3.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6bc4e951124ca6645b752240e7ff53c\jetified-transport-runtime-3.0.0\AndroidManifest.xml:34:13-37
+253    </application>
+254
+255</manifest>

@@ -6,32 +6,30 @@ INJECTED from D:\Dev\GitHub\HomeBara\android\app\src\main\AndroidManifest.xml:1:
 INJECTED from D:\Dev\GitHub\HomeBara\android\app\src\main\AndroidManifest.xml:1:1-56:12
 MERGED from D:\Dev\GitHub\HomeBara\android\app\src\main\AndroidManifest.xml:1:1-56:12
 MERGED from [:google_sign_in] D:\Dev\GitHub\HomeBara\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:geolocator] D:\Dev\GitHub\HomeBara\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
-MERGED from [:google_api_availability] D:\Dev\GitHub\HomeBara\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:google_maps_flutter] D:\Dev\GitHub\HomeBara\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:flutter_plugin_android_lifecycle] D:\Dev\GitHub\HomeBara\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:firebase_performance] D:\Dev\GitHub\HomeBara\build\firebase_performance\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:geolocator] D:\Dev\GitHub\HomeBara\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:firebase_analytics] D:\Dev\GitHub\HomeBara\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
-MERGED from [:location_permissions] D:\Dev\GitHub\HomeBara\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
 MERGED from [:firebase_database] D:\Dev\GitHub\HomeBara\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:location] D:\Dev\GitHub\HomeBara\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
 MERGED from [:firebase_auth] D:\Dev\GitHub\HomeBara\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [:firebase_core] D:\Dev\GitHub\HomeBara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d872650c8c09e7c2abc16252a9bf620b\firebase-analytics-19.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cb5f87010a2c1e85e419eb30bf722dbe\jetified-play-services-auth-16.0.1\AndroidManifest.xml:17:1-39:12
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\66ed294e59d5e0e432fa508d4568aaab\jetified-play-services-location-16.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\22cb6971f8dc430a2201341876913f49\core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6f4e6eb26f6c204062e462fe30c558b2\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\b526a0c1945c6cc60970c99591c98831\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:3:1-29:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1946f1904b19d62fd6dab43fbcde20ab\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\438b4d2b3dc56db1a963e6409a53981b\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\b526a0c1945c6cc60970c99591c98831\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\448145e185400fb231c67e590acc924b\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\7f587f52da75123ac006ed8e3a8d4998\play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\f0a2d37066a7b31039eae08624c4a78d\firebase-appcheck-interop-16.0.0-beta01\AndroidManifest.xml:15:1-26:12
 MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\39f2e9e72f1c53d4125c664c73c45e2d\firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:17:1-29:12
-MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\22cb6971f8dc430a2201341876913f49\core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:3:1-29:12
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1946f1904b19d62fd6dab43fbcde20ab\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\82a4fec2f9c8b119e3f35b6a79557b7d\firebase-datatransport-18.0.0\AndroidManifest.xml:15:1-34:12
 MERGED from [com.google.firebase:firebase-config:21.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c516718a48aee3a428b6c9e2d04b31cd\firebase-config-21.0.0\AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\0e6c5d50831e7e9ab354cc40b486380f\play-services-measurement-api-19.0.0\AndroidManifest.xml:17:1-36:12
@@ -39,7 +37,7 @@ MERGED from [com.google.firebase:firebase-installations:17.0.0] C:\Users\Zekid\.
 MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\f8fee813d23d07ae5c58591ae02f1887\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-abt:21.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\3872ffa409ff5bb8ad681a691f42f10a\firebase-abt-21.0.0\AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\08dda63aa6024eef34fb6b14605fdb41\play-services-places-placereport-16.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\2a2ff4e2ca31d43ce7839e62c3803847\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\35c83eadd4437ad5aae40ffe76470bb7\firebase-installations-interop-17.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\e1bb103c69112b33b3e5a2adf558a7e2\play-services-tasks-17.1.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:17:1-46:12
@@ -85,7 +83,6 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Zekid\.gradle\ca
 MERGED from [com.google.firebase:firebase-encoders-json:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\ab87c7236a26ef3f4c769ee3c7cf9b47\firebase-encoders-json-18.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\ec735b528ee8f52f56a38a2f27a69a4b\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\dff04f4f27a157ea6f57a15b661fd9d7\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1e43ec82407637f465c620e746b223b7\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\4077e9cefecbf7dda1ab8b3219f0ab89\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
 INJECTED from D:\Dev\GitHub\HomeBara\android\app\src\debug\AndroidManifest.xml:1:1-7:12
 INJECTED from D:\Dev\GitHub\HomeBara\android\app\src\debug\AndroidManifest.xml:1:1-7:12
@@ -118,10 +115,10 @@ MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Zekid\.g
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6f4e6eb26f6c204062e462fe30c558b2\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:26:5-67
-MERGED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:11:5-67
-MERGED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-config:21.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c516718a48aee3a428b6c9e2d04b31cd\firebase-config-21.0.0\AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-config:21.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c516718a48aee3a428b6c9e2d04b31cd\firebase-config-21.0.0\AndroidManifest.xml:26:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\0e6c5d50831e7e9ab354cc40b486380f\play-services-measurement-api-19.0.0\AndroidManifest.xml:22:5-67
@@ -140,8 +137,6 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:3.0.0] C:\Us
 		ADDED from D:\Dev\GitHub\HomeBara\android\app\src\main\AndroidManifest.xml:3:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from D:\Dev\GitHub\HomeBara\android\app\src\main\AndroidManifest.xml:4:5-78
-MERGED from [:geolocator] D:\Dev\GitHub\HomeBara\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
-MERGED from [:geolocator] D:\Dev\GitHub\HomeBara\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
 MERGED from [:location] D:\Dev\GitHub\HomeBara\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
 MERGED from [:location] D:\Dev\GitHub\HomeBara\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
 	android:name
@@ -170,22 +165,22 @@ MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\Zekid\.grad
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d872650c8c09e7c2abc16252a9bf620b\firebase-analytics-19.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cb5f87010a2c1e85e419eb30bf722dbe\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cb5f87010a2c1e85e419eb30bf722dbe\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\66ed294e59d5e0e432fa508d4568aaab\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\66ed294e59d5e0e432fa508d4568aaab\jetified-play-services-location-16.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6f4e6eb26f6c204062e462fe30c558b2\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6f4e6eb26f6c204062e462fe30c558b2\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:13:5-27:19
+MERGED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:13:5-27:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\438b4d2b3dc56db1a963e6409a53981b\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\438b4d2b3dc56db1a963e6409a53981b\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\7f587f52da75123ac006ed8e3a8d4998\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\7f587f52da75123ac006ed8e3a8d4998\play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\f0a2d37066a7b31039eae08624c4a78d\firebase-appcheck-interop-16.0.0-beta01\AndroidManifest.xml:24:5-20
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\f0a2d37066a7b31039eae08624c4a78d\firebase-appcheck-interop-16.0.0-beta01\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:13:5-27:19
-MERGED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:13:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\82a4fec2f9c8b119e3f35b6a79557b7d\firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\82a4fec2f9c8b119e3f35b6a79557b7d\firebase-datatransport-18.0.0\AndroidManifest.xml:24:5-32:19
 MERGED from [com.google.firebase:firebase-config:21.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c516718a48aee3a428b6c9e2d04b31cd\firebase-config-21.0.0\AndroidManifest.xml:28:5-36:19
@@ -200,8 +195,8 @@ MERGED from [com.google.firebase:firebase-abt:21.0.0] C:\Users\Zekid\.gradle\cac
 MERGED from [com.google.firebase:firebase-abt:21.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\3872ffa409ff5bb8ad681a691f42f10a\firebase-abt-21.0.0\AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
 MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\08dda63aa6024eef34fb6b14605fdb41\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\08dda63aa6024eef34fb6b14605fdb41\play-services-places-placereport-16.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\2a2ff4e2ca31d43ce7839e62c3803847\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\2a2ff4e2ca31d43ce7839e62c3803847\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\e1bb103c69112b33b3e5a2adf558a7e2\play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\e1bb103c69112b33b3e5a2adf558a7e2\play-services-tasks-17.1.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1922ffbb6fca3cc725802b09247ff1b5\play-services-measurement-19.0.0\AndroidManifest.xml:28:5-44:19
@@ -290,20 +285,16 @@ INJECTED from D:\Dev\GitHub\HomeBara\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\Dev\GitHub\HomeBara\android\app\src\main\AndroidManifest.xml
 MERGED from [:google_sign_in] D:\Dev\GitHub\HomeBara\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:google_sign_in] D:\Dev\GitHub\HomeBara\build\google_sign_in\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:geolocator] D:\Dev\GitHub\HomeBara\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:geolocator] D:\Dev\GitHub\HomeBara\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:google_api_availability] D:\Dev\GitHub\HomeBara\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:google_api_availability] D:\Dev\GitHub\HomeBara\build\google_api_availability\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:google_maps_flutter] D:\Dev\GitHub\HomeBara\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:google_maps_flutter] D:\Dev\GitHub\HomeBara\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] D:\Dev\GitHub\HomeBara\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:flutter_plugin_android_lifecycle] D:\Dev\GitHub\HomeBara\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_performance] D:\Dev\GitHub\HomeBara\build\firebase_performance\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_performance] D:\Dev\GitHub\HomeBara\build\firebase_performance\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] D:\Dev\GitHub\HomeBara\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] D:\Dev\GitHub\HomeBara\build\geolocator\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_analytics] D:\Dev\GitHub\HomeBara\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_analytics] D:\Dev\GitHub\HomeBara\build\firebase_analytics\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:location_permissions] D:\Dev\GitHub\HomeBara\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
-MERGED from [:location_permissions] D:\Dev\GitHub\HomeBara\build\location_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_database] D:\Dev\GitHub\HomeBara\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:firebase_database] D:\Dev\GitHub\HomeBara\build\firebase_database\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:location] D:\Dev\GitHub\HomeBara\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
@@ -316,14 +307,20 @@ MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\Zekid\.grad
 MERGED from [com.google.firebase:firebase-analytics:19.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d872650c8c09e7c2abc16252a9bf620b\firebase-analytics-19.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cb5f87010a2c1e85e419eb30bf722dbe\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\cb5f87010a2c1e85e419eb30bf722dbe\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\66ed294e59d5e0e432fa508d4568aaab\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-location:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\66ed294e59d5e0e432fa508d4568aaab\jetified-play-services-location-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\22cb6971f8dc430a2201341876913f49\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\22cb6971f8dc430a2201341876913f49\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6f4e6eb26f6c204062e462fe30c558b2\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6f4e6eb26f6c204062e462fe30c558b2\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\b526a0c1945c6cc60970c99591c98831\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\b526a0c1945c6cc60970c99591c98831\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1946f1904b19d62fd6dab43fbcde20ab\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1946f1904b19d62fd6dab43fbcde20ab\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\438b4d2b3dc56db1a963e6409a53981b\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\438b4d2b3dc56db1a963e6409a53981b\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\b526a0c1945c6cc60970c99591c98831\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\b526a0c1945c6cc60970c99591c98831\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\448145e185400fb231c67e590acc924b\play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
@@ -334,14 +331,8 @@ MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] C:\Use
 MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta01] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\f0a2d37066a7b31039eae08624c4a78d\firebase-appcheck-interop-16.0.0-beta01\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\39f2e9e72f1c53d4125c664c73c45e2d\firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\39f2e9e72f1c53d4125c664c73c45e2d\firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\22cb6971f8dc430a2201341876913f49\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\22cb6971f8dc430a2201341876913f49\core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1946f1904b19d62fd6dab43fbcde20ab\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1946f1904b19d62fd6dab43fbcde20ab\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\82a4fec2f9c8b119e3f35b6a79557b7d\firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\82a4fec2f9c8b119e3f35b6a79557b7d\firebase-datatransport-18.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-config:21.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c516718a48aee3a428b6c9e2d04b31cd\firebase-config-21.0.0\AndroidManifest.xml:21:5-23:41
@@ -356,8 +347,8 @@ MERGED from [com.google.firebase:firebase-abt:21.0.0] C:\Users\Zekid\.gradle\cac
 MERGED from [com.google.firebase:firebase-abt:21.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\3872ffa409ff5bb8ad681a691f42f10a\firebase-abt-21.0.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\d6e6c27bd327f48c39c748ae5a6a14c3\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\08dda63aa6024eef34fb6b14605fdb41\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\08dda63aa6024eef34fb6b14605fdb41\play-services-places-placereport-16.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\2a2ff4e2ca31d43ce7839e62c3803847\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\2a2ff4e2ca31d43ce7839e62c3803847\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\35c83eadd4437ad5aae40ffe76470bb7\firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-installations-interop:17.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\35c83eadd4437ad5aae40ffe76470bb7\firebase-installations-interop-17.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-tasks:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\e1bb103c69112b33b3e5a2adf558a7e2\play-services-tasks-17.1.0\AndroidManifest.xml:5:5-44
@@ -448,8 +439,6 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Zekid\.gradle\ca
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\ec735b528ee8f52f56a38a2f27a69a4b\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\dff04f4f27a157ea6f57a15b661fd9d7\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\dff04f4f27a157ea6f57a15b661fd9d7\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1e43ec82407637f465c620e746b223b7\multidex-2.0.0\AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\1e43ec82407637f465c620e746b223b7\multidex-2.0.0\AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\4077e9cefecbf7dda1ab8b3219f0ab89\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\4077e9cefecbf7dda1ab8b3219f0ab89\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
 INJECTED from D:\Dev\GitHub\HomeBara\android\app\src\debug\AndroidManifest.xml
@@ -472,10 +461,10 @@ MERGED from [:firebase_core] D:\Dev\GitHub\HomeBara\build\firebase_core\intermed
 MERGED from [:firebase_core] D:\Dev\GitHub\HomeBara\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
 MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:20:9-26:19
+MERGED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:20:9-26:19
 MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:20:9-26:19
-MERGED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:20:9-26:19
 MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\82a4fec2f9c8b119e3f35b6a79557b7d\firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
 MERGED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\82a4fec2f9c8b119e3f35b6a79557b7d\firebase-datatransport-18.0.0\AndroidManifest.xml:25:9-31:19
 MERGED from [com.google.firebase:firebase-config:21.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c516718a48aee3a428b6c9e2d04b31cd\firebase-config-21.0.0\AndroidManifest.xml:29:9-35:19
@@ -672,6 +661,22 @@ ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\cac
 		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
 	android:name
 		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\28d919e70313fd1fc5db10710803505b\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+provider#com.google.firebase.perf.provider.FirebasePerfProvider
+ADDED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:14:9-18:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:16:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:17:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:15:13-82
+meta-data#com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar
+ADDED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:23:13-25:85
+	android:value
+		ADDED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:25:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:20.0.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\febcc9bc8f8b9313313850474c5e8a21\firebase-perf-20.0.1\AndroidManifest.xml:24:17-109
 meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
 ADDED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:32:13-34:85
 	android:value
@@ -679,29 +684,13 @@ ADDED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle
 	android:name
 		ADDED from [com.google.firebase:firebase-database:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\750c7a3e33af766f3c6d5c16cff0eada\firebase-database-20.0.0\AndroidManifest.xml:33:17-109
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.2.1] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\c74e9d76b9181d3585ba58111e512b89\play-services-base-17.2.1\AndroidManifest.xml:24:13-79
-provider#com.google.firebase.perf.provider.FirebasePerfProvider
-ADDED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:14:9-18:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:16:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:17:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:18:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:15:13-82
-meta-data#com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar
-ADDED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:23:13-25:85
-	android:value
-		ADDED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:25:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-perf:20.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\89a10a18eec61793ba8a97a1726623a1\firebase-perf-20.0.0\AndroidManifest.xml:24:17-109
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\6eb14f512292913515d869914807ad40\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
 meta-data#com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar
 ADDED from [com.google.firebase:firebase-datatransport:18.0.0] C:\Users\Zekid\.gradle\caches\transforms-2\files-2.1\82a4fec2f9c8b119e3f35b6a79557b7d\firebase-datatransport-18.0.0\AndroidManifest.xml:28:13-30:85
 	android:value
