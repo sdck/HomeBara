@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'authService.dart';
 import 'package:provider/provider.dart';
 
 class LoginView extends StatefulWidget {
@@ -158,10 +157,6 @@ class _LoginViewState extends State<LoginView> {
                     icon: Icon(Icons.arrow_forward_ios),
                     tooltip: 'Navigate Foward',
                     onPressed: () {
-                      context.read<AuthenticationService>().signIn(
-                            email: emailController.text,
-                            password: passwordController.text,
-                          );
                     },
                   ),
                 ),

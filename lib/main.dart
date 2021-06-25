@@ -1,4 +1,3 @@
-import 'package:barahome/Views/auth/authService.dart';
 import 'package:barahome/Views/auth/login_view.dart';
 import 'package:barahome/Views/auth/sign_up_form1_view.dart';
 import 'package:barahome/Views/auth/sign_up_form_2_view.dart';
@@ -16,43 +15,21 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MultiProvider(
-      providers: [
-        Provider<AuthenticationService>(
-          create: (_) => AuthenticationService(FirebaseAuth.instance),
-        ),
-        StreamProvider(
-          create: (context) =>
-              context.read<AuthenticationService>().authStateChanges,
-          initialData: null,
-        )
-      ],
-      child: MaterialApp(
-        title: 'Home Bara ',
-        theme: ThemeData(
-          primarySwatch: Colors.lightBlue,
-        ),
-        home: SplashScreen(),
-        routes: {
-          '/homeView': (context) => HomeView(),
-          '/landingPageView': (context) => LandingPageView(),
-          '/loginView': (context) => LoginView(),
-          '/signUpView': (context) => SignUpPageView(),
-          '/signUpView2': (context) => SignUpPage2View(),
-          '/sideBarLayout': (context) => SideBarLayout(),
-        },
+    return MaterialApp(
+      title: 'Home Bara ',
+      theme: ThemeData(
+        primarySwatch: Colors.lightBlue,
       ),
+      home: SplashScreen(),
+      routes: {
+        '/homeView': (context) => HomeView(),
+        '/landingPageView': (context) => LandingPageView(),
+        '/loginView': (context) => LoginView(),
+        '/signUpView': (context) => SignUpPageView(),
+        '/signUpView2': (context) => SignUpPage2View(),
+        '/sideBarLayout': (context) => SideBarLayout(),
+      },
     );
   }
 }
 
-class AuthenticationWrapper extends StatelessWidget {
-  @override
-  Widget build(BuildContext context) {
-    final firebaseUser = context.watch<User>();
-    if (firebaseUser != null) {
-      return HomeView();
-    }
-    return LoginView();
-  }
-}

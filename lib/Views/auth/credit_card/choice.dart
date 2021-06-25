@@ -1,11 +1,10 @@
-import 'package:barahome/Views/auth/credit_card/choice.dart';
 import 'package:barahome/Views/side_bar_layout.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_icons/flutter_icons.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:flutter_svg/svg.dart';
+import 'package:flutter_icons/flutter_icons.dart';
 
-class PaymentOptions extends StatelessWidget {
+class ChoiceOptions extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final _width = MediaQuery.of(context).size.width;
@@ -37,21 +36,21 @@ class PaymentOptions extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.center,
                     children: <Widget>[
                       Text(
-                        "Méthode de Paiement",
+                        "Choisissez une option",
                         style: TextStyle(
                           color: Colors.white,
                           fontSize: 20,
                           fontWeight: FontWeight.bold,
                         ),
-                      ),
+                      )
                     ],
-                  ),
+                  )
                 ],
               ),
             ),
           ),
           SizedBox(
-            height: 25,
+            height: 50,
           ),
           Column(
             mainAxisAlignment: MainAxisAlignment.center,
@@ -61,22 +60,46 @@ class PaymentOptions extends StatelessWidget {
                 child: GestureDetector(
                   onTap: () {
                     Navigator.of(context).push(MaterialPageRoute(
-                        builder: (context) => ChoiceOptions()));
+                        builder: (context) => SideBarLayout()));
                   },
-                  child: Align(
-                  alignment: Alignment.center,
-                  child: Icon(
-                    FlutterIcons.payment_mdi,
-                    size: 55,
+                  child:  Icon(
+                    FlutterIcons.contactless_payment_mco,
+                    size: 80,
                     color: Colors.indigo[900],
 
                   ),
+                ),
+              ),
+              Text(
+                "Apple or Google Pay",
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                  color: Colors.indigo[900],
+                  fontSize: 17,
+                ),
+              ),
+              SizedBox(
+                height: 40,
+              ),
+              Padding(
+                padding: EdgeInsets.fromLTRB(40, 40, 40, 10),
+                child: GestureDetector(
+                  onTap: (){
+                    Navigator.of(context).push(
+                      MaterialPageRoute(
+                      builder: (context) => SideBarLayout()
+                      ),
+                      );
+                  },
+                  child: Icon(
+                    FlutterIcons.payment_mdi,
+                    size: 80,
+                    color: Colors.indigo[900],
+
                   ),
                 ), 
               ),
-              Align(
-                alignment: Alignment.center,
-              child: Text(
+              Text(
                 'Carte de Crédit',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
@@ -84,74 +107,11 @@ class PaymentOptions extends StatelessWidget {
                   fontSize: 17,
                 ),
               ),
-              ),
-              SizedBox(
-                height: 10,
-              ),
-              Padding(
-                padding: EdgeInsets.fromLTRB(40, 40, 40, 10),
-                child: GestureDetector(
-                  onTap: () {
-                    Navigator.of(context).push(MaterialPageRoute(
-                        builder: (context) => SideBarLayout()));
-                  },
-                  child: SvgPicture.asset(
-                    'assets/images/mobile-banking.svg',
-                    color: Colors.indigo[900],
-                    height: 45,
-                    alignment: Alignment.center,
-                  ),
-                ),
-              ),
-              Align(
-                alignment: Alignment.center,
-              child: Text(
-                'Mobile Money',
-                style: TextStyle(
-                  fontWeight: FontWeight.bold,
-                  color: Colors.indigo[900],
-                  fontSize: 17,
-                ),
-              ),
-              ),
             ],
           ),
           SizedBox(
-            height: 10,
+            height: 30,
           ),
-           Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: <Widget>[
-              Padding(
-                padding: EdgeInsets.fromLTRB(40, 40, 40, 10),
-                child: GestureDetector(
-                  onTap: () {
-                    Navigator.of(context).push(MaterialPageRoute(
-                        builder: (context) => SideBarLayout()));
-                  },
-                  child:
-                  Align(
-                  alignment: Alignment.center,
-                  child:  Icon(
-                    FlutterIcons.contactless_payment_mco,
-                    size: 45,
-                    color: Colors.indigo[900],
-                  ),
-                  ),
-                ),
-              ),
-              Align(
-                alignment: Alignment.center,
-                child: Text(
-                "Apple ou Google Pay",
-                style: TextStyle(
-                  fontWeight: FontWeight.bold,
-                  color: Colors.indigo[900],
-                  fontSize: 17,
-                  
-                ),
-              ),
-              ),
           Container(
             child: Row(
               mainAxisAlignment: MainAxisAlignment.end,
@@ -173,8 +133,6 @@ class PaymentOptions extends StatelessWidget {
           ),
         ],
       ),
-        ],
-    ),
     );
   }
 }

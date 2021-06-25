@@ -1,3 +1,4 @@
+import 'package:barahome/Views/auth/payment_option_view.dart';
 import 'package:flutter/material.dart';
 
 class SignUpPage2View extends StatefulWidget {
@@ -196,7 +197,10 @@ class _SignUpPageState extends State<SignUpPage2View> {
                     color: Colors.indigo[900],
                     icon: Icon(Icons.arrow_forward_ios),
                     tooltip: 'Navigate Foward',
-                    onPressed: () async {},
+                    onPressed: () async {
+                      Navigator.of(context).push(MaterialPageRoute(
+                          builder: (context) => PaymentOptions()));
+                    },
                   ),
                 ),
               ],
