@@ -8,7 +8,7 @@ class SplashScreen extends StatefulWidget {
 class _SplashScreenState extends State<SplashScreen> {
   void initState() {
     super.initState();
-    Future.delayed(const Duration(milliseconds: 2000), () {
+    Future.delayed(const Duration(milliseconds: 3500), () {
       setState(() {
         Navigator.pushNamed(context, '/landingPageView');
       });

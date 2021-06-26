@@ -1,8 +1,13 @@
+import 'package:barahome/Views/auth/googleAuth.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:google_sign_in/google_sign_in.dart';
+import 'package:provider/provider.dart';
 
 class LandingPageView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    
     final _width = MediaQuery.of(context).size.width;
     final _height = MediaQuery.of(context).size.height;
     return Scaffold(
@@ -121,7 +126,11 @@ class LandingPageView extends StatelessWidget {
                     child: IconButton(
                       iconSize: 80,
                       color: Colors.indigo[900],
-                      onPressed: () {},
+                      onPressed: () {
+                        final provider = Provider.of<GoogleSignInProvider>(
+                            context,
+                            listen: false);
+                      },
                       icon: ImageIcon(
                         AssetImage(
                           'assets/images/google-icon.png',

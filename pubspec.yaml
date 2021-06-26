@@ -35,6 +35,8 @@ dependencies:
   #FireBase Authentification
   firebase_auth:
   google_sign_in:
+  provider:
+  
 
   #FireBase
   firebase_analytics:
