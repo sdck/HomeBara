@@ -1,3 +1,4 @@
+import 'package:barahome/Views/auth/authDecision.dart';
 import 'package:barahome/Views/auth/googleAuth.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
@@ -127,9 +128,8 @@ class LandingPageView extends StatelessWidget {
                       iconSize: 80,
                       color: Colors.indigo[900],
                       onPressed: () {
-                        final provider = Provider.of<GoogleSignInProvider>(
-                            context,
-                            listen: false);
+                        Navigator.of(context).push(MaterialPageRoute(
+                          builder: (context) => AuthDecision()));
                       },
                       icon: ImageIcon(
                         AssetImage(

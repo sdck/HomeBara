@@ -6,10 +6,17 @@ import 'package:barahome/Views/landing_page_view.dart';
 import 'package:barahome/Views/side_bar_layout.dart';
 import 'package:barahome/Views/splashscreen_view.dart';
 import 'package:firebase_auth/firebase_auth.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-void main() => runApp(MyApp());
+
+Future main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+
+  runApp(MyApp());
+}
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
@@ -32,4 +39,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
